@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @07Vishesh
 - 👀 I’m interested in web development,gamimg development and software development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on nvidia
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me insta id:- @vishesh_.17,twitter id:-@sVishesh1702
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like web development
