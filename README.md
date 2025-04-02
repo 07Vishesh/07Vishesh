@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me insta id:- @vishesh_.17,twitter id:-@sVishesh1702
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i like web development
+- ⚡: i like web development,AI and ML,Blockchain
 
 <!---
 07Vishesh/07Vishesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
