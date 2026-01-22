@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-## Hi there! I'm *[Your Name]*, a passionate developer, AI enthusiast, and cloud practitioner.  
+## Hi there! I'm Vishesh Singh, a passionate developer, AI enthusiast, and cloud practitioner.  
 I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ---
